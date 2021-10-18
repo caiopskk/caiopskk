@@ -12,3 +12,7 @@
   <a href = "mailto:kayo367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/psyykko_"><img src="https://img.shields.io/twitter/follow/psyykko_?style=for-the-badge" target="_blank"></a>
  </div>
+
+    <div>
+  <img align="right" alt="psk" height="150" style="border-radius:50px; src="https://cdn.discordapp.com/attachments/887947347064135723/899724925034696724/Webp.net-gifmaker.gif" 
+ </div>
