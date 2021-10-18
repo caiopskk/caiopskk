@@ -13,6 +13,8 @@
   <a href = "https://twitter.com/psyykko_"><img src="https://img.shields.io/twitter/follow/psyykko_?style=for-the-badge" target="_blank"></a>
       
  </div>
+  
+    <img align=right alt="psk" src="https://media.discordapp.net/attachments/887947347064135723/899724925034696724/Webp.net-gifmaker.gif?width=588&height=588" 
 
  
     
