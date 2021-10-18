@@ -14,6 +14,7 @@
  </div>
 
     <div>
-    <div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="right" alt="psk" height="150" style="border-radius:50px; src="https://cdn.discordapp.com/attachments/887947347064135723/899724925034696724/Webp.net-gifmaker.gif">
    </div>
+    
