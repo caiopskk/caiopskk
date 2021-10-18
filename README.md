@@ -15,7 +15,7 @@
  </div>
   
   <div>
-    <img align=center alt="psk" src="https://media.discordapp.net/attachments/887947347064135723/899728326267109386/Webp.net-gifmaker_1.gif?width=588&height=588" 
+    <img align=auto alt="psk" src="https://media.discordapp.net/attachments/887947347064135723/899728326267109386/Webp.net-gifmaker_1.gif?width=588&height=588" 
          </div>
  
     
