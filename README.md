@@ -1,6 +1,6 @@
 ### Hi/eae 👋
 
-- 🌱 I’m currently learning javascript
+- 📚 I’m currently learning html, css and javascript.
 
 
 <div align="center">
@@ -14,8 +14,7 @@
   <a href = "https://twitter.com/psyykko_"><img src="https://img.shields.io/twitter/follow/psyykko_?style=for-the-badge" target="_blank"></a>
   <a href = "https://www.twitch.tv/psyykko"><img src="https://img.shields.io/twitch/status/psyykko?style=for-the-badge" target="_blank"></a>
   <img align=right alt="psk" src="https://media.discordapp.net/attachments/887947347064135723/899728326267109386/Webp.net-gifmaker_1.gif?width=200&height=200">
-      
- </div>
+  </div>
 
   
  
