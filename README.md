@@ -10,5 +10,5 @@
     
     <div> 
   <a href = "mailto:kayo367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/psyykko_"><img src="https://img.shields.io/twitter/follow/psyykko_?style=social" target="_blank"></a>
+  <a href = "https://twitter.com/psyykko_"><img src="https://img.shields.io/twitter/follow/psyykko_?style=for-the-badge" target="_blank"></a>
  </div>
