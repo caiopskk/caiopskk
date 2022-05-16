@@ -1,9 +1,11 @@
-### Hi/eae 👋
-
-- 📚 I’m currently learning html, css and javascript.
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiopskk&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caiopskk)
+
+<br/>
+
+### Hey!
+
+##### I'm Caio Lima, I'm 24 years old and currently learning javascript, css and html.
     
   <div>
     <div style="display:center"><br>
