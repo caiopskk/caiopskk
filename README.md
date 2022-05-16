@@ -3,10 +3,7 @@
 - 📚 I’m currently learning html, css and javascript.
 
 
-<div align="center">
-  <a href="https://github.com/caiopskk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopskk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopskk&layout=compact&langs_count=7&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiopskk&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caiopskk)
     
   <div>
     <div style="display:center"><br>
