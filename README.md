@@ -10,7 +10,6 @@
   <div>
     <div style="display:center"><br>
   <a href = "mailto:kayo367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.twitch.tv/psyykko"><img src="https://img.shields.io/twitch/status/psyykko?style=for-the-badge" target="_blank"></a>
   </div>
 
   
