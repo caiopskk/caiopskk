@@ -5,7 +5,7 @@
 
 ### Hey!
 
-##### I'm Caio Lima, I'm 24 years old and currently learning javascript, css and html.
+##### I'm Caio Lima, I'm 24 years old and currently learning javascript(also REACT), css and html.
     
   <div>
     <div style="display:center"><br>
