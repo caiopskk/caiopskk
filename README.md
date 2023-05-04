@@ -6,7 +6,8 @@
 ### Hey!
 
 ##### I'm Caio Lima, I'm 25 years old and I'm working as Junior software engineer. When I'm not writing code, I love to immerse myself in the universe of movies and games.
-    
+
+##### Reach me on:   
   <div>
     <div style="display:center"><br>
   <a href = "mailto:kayo367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
