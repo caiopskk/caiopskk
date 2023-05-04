@@ -5,7 +5,7 @@
 
 ### Hey!
 
-##### I'm Caio Lima, I'm 25 years old and I'm working as Junior software engineer at Harpia Consultoria.
+##### I'm Caio Lima, I'm 25 years old and I'm working as Junior software engineer.
     
   <div>
     <div style="display:center"><br>
