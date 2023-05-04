@@ -5,13 +5,19 @@
 
 ### Hey!
 
-##### I'm Caio Lima, I'm 25 years old and I'm working as Junior software engineer.
+##### I'm Caio Lima, I'm 25 years old and I'm working as Junior software engineer. When I'm not writing code, I love to immerse myself in the universe of movies and games.
     
   <div>
     <div style="display:center"><br>
   <a href = "mailto:kayo367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-
+<div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.linkedin.com/in/caiolimapsk/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+</div>
   
  
     
