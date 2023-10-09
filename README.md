@@ -10,7 +10,7 @@
 **Reach me on:**   
   <div>
     <div style="display:center"><br>
-  <a href = "mailto:kayo367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:caiopereirapsk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 <div>
   <div style="display: flex; justify-content: center; align-items: center;">
