@@ -3,7 +3,7 @@
 
 <br/>
 
-**Hey!**
+**Hey/Olá!**
 
 *I'm Caio Lima, I'm 26 years old and I'm working as Junior software engineer. When I'm not writing code, I love to immerse myself in the universe of movies and games.*
 
