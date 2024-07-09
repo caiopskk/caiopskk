@@ -5,7 +5,7 @@
 
 **Hey/Olá!**
 
-*I'm Caio Lima, I'm 26 years old and I'm a software engineer. When I'm not writing code, I love to immerse myself in the universe of movies and games.*
+*I'm Caio Lima, I'm 26 years old and I'm a software developer. When I'm not writing code, I love to immerse myself in the universe of movies and games.*
 
 **Reach me on:**   
   <div>
